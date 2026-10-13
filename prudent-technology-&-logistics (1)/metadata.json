@@ -1,0 +1,8 @@
+{
+  "name": "Prudent Technology & Logistics",
+  "description": "Prudent Technology & Logistics - digital transformation, workflow automation, education and church technology, and digital training.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
